@@ -69,7 +69,7 @@ C++
         <li>Ensure you have a C++ compiler installed (e.g., GCC).</li>
         <li>Open the terminal or command prompt and navigate to the project directory.</li>
         <li>Compile the code with the following command:
-            <pre>g++ -o supermarket_management_system main.cpp</pre>
+            <pre>g++ -o supermarket_management_system supermarket_management_system.cpp</pre>
         </li>
         <li>Run the program with the following command:
             <pre>./supermarket_management_system</pre></li>
